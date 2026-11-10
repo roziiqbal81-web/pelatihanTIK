@@ -1,0 +1,13 @@
+body  {
+  background-color: #FFFFE0;  /* Warna kuning cerah */
+font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah di baca */
+color:  #191970;  /* warna teks utama (Biru gelap) */
+}
+
+.kartu-pprofil {
+  width: 300px;
+  margin: 50px auoto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan*/
+padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+box-shadow:
